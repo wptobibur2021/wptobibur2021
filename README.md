@@ -5,9 +5,13 @@ During this time I have acquired adequate knowledge in PHP, and JS, and created 
 I would like to thank you very much for your time. 
 
 The best way to reach out to me would be:
+
 LinkedIn: https://www.linkedin.com/in/tobibur
+
 E-mail: anamol222@gmail.com
+
 WhatsApp: +8801722527364
+
 Website: https://techbd71.com
 
 Thank you very much.
