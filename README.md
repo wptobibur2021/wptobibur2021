@@ -8,7 +8,7 @@ The best way to reach out to me would be:
 
 LinkedIn: https://www.linkedin.com/in/tobibur
 
-E-mail: wdtobibur96@gmail.com
+E-mail: wptobibur21@hotmail.com
 
 WhatsApp: +8801722527364
 
