@@ -8,10 +8,10 @@ The best way to reach out to me would be:
 
 LinkedIn: https://www.linkedin.com/in/tobibur
 
-E-mail: wptobibur21@hotmail.com
+E-mail: wptobibur21@hotmail.com / info@tobibur.me
 
 WhatsApp: +8801722527364
 
-Website: https://wptobibur.vercel.app
+Website: http://tobibur.me
 
 Thank you very much.
