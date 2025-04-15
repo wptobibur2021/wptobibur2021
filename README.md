@@ -1,17 +1,2 @@
 ### Hi GitHub Community,
-My name is Md Tobibur Rohman. I am a full-stack web application developer. I recently graduated Bachelor of Science in Computer Engineering from Bangladesh University.
-During this time I have acquired adequate knowledge in PHP, and JS, and created lots of web applications using WordPress, Elementor, NodeJS, ReactJS, and API-based applications using REST and MongoDB.
-
-I would like to thank you very much for your time. 
-
-The best way to reach out to me would be:
-
-LinkedIn: https://www.linkedin.com/in/tobibur
-
-E-mail: wptobibur21@hotmail.com / info@tobibur.me
-
-WhatsApp: +8801722527364
-
-Website: http://tobibur.me
-
-Thank you very much.
+As a seasoned web developer, I specialize in creating modern, responsive websites using HTML5, CSS3, JavaScript, TypeScript, Next.js, React.js, Nest.js, Node.js, and WordPress. My expertise allows me to build engaging user interfaces and robust back-end solutions that ensure high performance and reliability. I focus on clean, maintainable code and seamless integration of innovative features that drive business growth. I continuously strive to refine my skills and stay updated with the latest technologies, ensuring every project is delivered with precision and excellence. My passion for development is evident in my commitment to quality and client satisfaction. My work exceeds client expectations.
